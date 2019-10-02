@@ -34,7 +34,7 @@
             "Key": "07457c27-94a9-46cb-889f-f3c77a81ea3d",
             "Value": {
                 "id": "17add836-ed08-4001-af1a-8bb73a73f006",
-                "resourcePath": "objects\\obj_triangle\\obj_triangle.yy",
+                "resourcePath": "objects\\obj_shoulder\\obj_shoulder.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -82,7 +82,7 @@
             "Key": "27725af6-adac-44eb-89e0-b39faa6b4385",
             "Value": {
                 "id": "2edd511d-3ce4-4e6f-9044-4a2eb44d6106",
-                "resourcePath": "sprites\\spr_circle\\spr_circle.yy",
+                "resourcePath": "sprites\\spr_elbow\\spr_elbow.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -90,7 +90,7 @@
             "Key": "305194d2-24db-4569-8e49-7be13dd2ab19",
             "Value": {
                 "id": "861b65e9-bc0a-4708-a60e-88e96b1a4141",
-                "resourcePath": "sprites\\spr_triangle\\spr_triangle.yy",
+                "resourcePath": "sprites\\spr_shoulder\\spr_shoulder.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -114,7 +114,7 @@
             "Key": "4076ad47-f079-479b-8654-00b79d97e19f",
             "Value": {
                 "id": "5c2e6398-48a7-41ca-b28f-8dec985cf77f",
-                "resourcePath": "objects\\obj_joint_distance\\obj_joint_distance.yy",
+                "resourcePath": "objects\\obj_levelManager\\obj_levelManager.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -154,7 +154,7 @@
             "Key": "5d4c65c0-a90d-4231-9112-246ef0109985",
             "Value": {
                 "id": "a2e8dfb5-ba14-4da8-bad7-a2ff6e3aa301",
-                "resourcePath": "sprites\\spr_square\\spr_square.yy",
+                "resourcePath": "sprites\\spr_hand\\spr_hand.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -162,7 +162,7 @@
             "Key": "674a4613-7851-479b-887b-912634565e16",
             "Value": {
                 "id": "423d8639-07cd-4b4c-afda-199a88ddfef0",
-                "resourcePath": "objects\\obj_isNotMoveAble\\obj_isNotMoveAble.yy",
+                "resourcePath": "objects\\obj_static\\obj_static.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -178,7 +178,7 @@
             "Key": "7f7b10e2-2fa7-46d9-91ee-7daf2230c919",
             "Value": {
                 "id": "33ddfcc0-8b8c-4ed3-be21-cd2df2fd6b8e",
-                "resourcePath": "objects\\obj_square\\obj_square.yy",
+                "resourcePath": "objects\\obj_hand\\obj_hand.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -266,7 +266,7 @@
             "Key": "adf7bf2a-680e-48c1-8f2f-f105cec1741f",
             "Value": {
                 "id": "ffd3351a-93b2-4320-a342-aeb4c16dd0af",
-                "resourcePath": "objects\\obj_circle\\obj_circle.yy",
+                "resourcePath": "objects\\obj_elbow\\obj_elbow.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -306,7 +306,7 @@
             "Key": "d999dc76-786c-424d-ae39-1f370a25f123",
             "Value": {
                 "id": "e76d7619-1518-438c-a702-0fd0ed7528d2",
-                "resourcePath": "objects\\obj_isMoveAble\\obj_isMoveAble.yy",
+                "resourcePath": "objects\\obj_dynamic\\obj_dynamic.yy",
                 "resourceType": "GMObject"
             }
         },

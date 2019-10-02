@@ -2,13 +2,13 @@
     "id": "07457c27-94a9-46cb-889f-f3c77a81ea3d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_triangle",
+    "name": "obj_shoulder",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "d999dc76-786c-424d-ae39-1f370a25f123",
+    "parentObjectId": "674a4613-7851-479b-887b-912634565e16",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0,

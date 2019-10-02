@@ -2,7 +2,7 @@
     "id": "674a4613-7851-479b-887b-912634565e16",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_isNotMoveAble",
+    "name": "obj_static",
     "eventList": [
         
     ],

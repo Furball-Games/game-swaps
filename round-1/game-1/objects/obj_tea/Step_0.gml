@@ -1,1 +1,1 @@
-//phy_linear_velocity_y += 10;
+phy_linear_velocity_y += 10;

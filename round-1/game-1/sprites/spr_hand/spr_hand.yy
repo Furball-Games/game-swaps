@@ -2,7 +2,7 @@
     "id": "5d4c65c0-a90d-4231-9112-246ef0109985",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_square",
+    "name": "spr_hand",
     "For3D": false,
     "HTile": false,
     "VTile": false,

@@ -2,7 +2,7 @@
     "id": "4076ad47-f079-479b-8654-00b79d97e19f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_joint_distance",
+    "name": "obj_levelManager",
     "eventList": [
         {
             "id": "0997a554-0d6a-4183-a3cf-58f6ecb413a9",
@@ -18,7 +18,7 @@
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
-    "persistent": false,
+    "persistent": true,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,
