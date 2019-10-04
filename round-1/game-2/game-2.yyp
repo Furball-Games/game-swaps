@@ -79,6 +79,22 @@
             }
         },
         {
+            "Key": "260a39ef-0f22-4224-97b3-d1773225ad88",
+            "Value": {
+                "id": "7b5ebd10-fb57-4d08-8170-e783f841546c",
+                "resourcePath": "objects\\obj_RippleShot\\obj_RippleShot.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3874b9f8-1f73-4fce-8553-95df845d84d3",
+            "Value": {
+                "id": "1ef89d3b-205a-44e1-aefe-742dd9f236c1",
+                "resourcePath": "sprites\\spr_RippleShot\\spr_RippleShot.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "467c27e0-9113-45b1-9597-51c0c15646f9",
             "Value": {
                 "id": "dde17fec-9041-4671-bad5-477cbcb6e79f",
