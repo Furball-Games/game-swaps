@@ -1,0 +1,1 @@
+image_xscale = (obj_elbow.y - y)/64;

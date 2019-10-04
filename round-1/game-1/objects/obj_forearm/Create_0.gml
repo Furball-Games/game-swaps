@@ -1,0 +1,1 @@
+image_xscale = (obj_hand.y - y)/64;

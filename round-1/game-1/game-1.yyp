@@ -111,6 +111,22 @@
             }
         },
         {
+            "Key": "32b04142-bddc-49f3-baee-8a2218e9426a",
+            "Value": {
+                "id": "250cd144-1e8d-45f9-88df-a73365df7b5e",
+                "resourcePath": "sprites\\spr_forearm\\spr_forearm.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "34fe9102-35f6-42cd-a857-fbcb25e45d81",
+            "Value": {
+                "id": "1dd0501c-0fe5-4d25-b8d8-74e59dbef102",
+                "resourcePath": "objects\\obj_forearm\\obj_forearm.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4076ad47-f079-479b-8654-00b79d97e19f",
             "Value": {
                 "id": "5c2e6398-48a7-41ca-b28f-8dec985cf77f",
