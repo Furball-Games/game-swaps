@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "23454085-e166-4717-b846-bf043cdae150",
+            "Value": {
+                "id": "549afe75-3936-496c-94a7-a0199dfce683",
+                "resourcePath": "objects\\obj_landingriple\\obj_landingriple.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "25c59676-1593-4a85-8c53-b95ae1b469d7",
             "Value": {
                 "id": "4119a6ea-d36b-4123-b766-3c86b0c55f8c",
@@ -92,6 +100,14 @@
                 "id": "1ef89d3b-205a-44e1-aefe-742dd9f236c1",
                 "resourcePath": "sprites\\spr_RippleShot\\spr_RippleShot.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3e909a2c-bc7a-455e-a410-5fcba2f2b547",
+            "Value": {
+                "id": "813931d7-acfd-4daf-b3f7-6b47c50b4fdf",
+                "resourcePath": "objects\\obj_flySpawner\\obj_flySpawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -127,11 +143,35 @@
             }
         },
         {
+            "Key": "687cce10-cf4a-4d4d-b835-9ec6e11e1b6b",
+            "Value": {
+                "id": "93b12b17-8b08-4063-b843-33d9292effd9",
+                "resourcePath": "objects\\obj_flySpawning\\obj_flySpawning.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7400040d-e035-41f1-bb6f-26aa01fb864e",
+            "Value": {
+                "id": "2feb5950-05e7-430c-a08f-c259cccab2bd",
+                "resourcePath": "sprites\\spr_landing_riple\\spr_landing_riple.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7fda3b51-7ae9-4e93-a11a-86426c0e5d93",
             "Value": {
                 "id": "e5c17a4b-52c1-4cc7-b1f5-d77788a51aa5",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "2143e827-83bc-4780-a1f7-34919ae91492",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
             }
         },
         {
@@ -151,6 +191,14 @@
             }
         },
         {
+            "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
+            "Value": {
+                "id": "2323b2c5-1517-409d-b19e-d2bb76193a36",
+                "resourcePath": "options\\tvos\\options_tvos.yy",
+                "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
             "Key": "95e609da-0105-4b3a-b4d1-6a2b969dae90",
             "Value": {
                 "id": "a1e29c87-5e94-4b06-bd27-0e5eddcb7c58",
@@ -159,11 +207,27 @@
             }
         },
         {
+            "Key": "99057ac6-53af-4d0a-96fc-5a2f38afc434",
+            "Value": {
+                "id": "85094578-e0d5-4141-b51d-5073940097f8",
+                "resourcePath": "objects\\obj_fly\\obj_fly.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "99525a10-7641-4b5a-a39c-7332b4d241b8",
             "Value": {
                 "id": "a2e8f48e-30ea-4c88-8378-acbf2b2f81be",
                 "resourcePath": "sprites\\spr_TeaLeaf\\spr_TeaLeaf.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "c5f18aa8-7d44-4748-a8b2-49665ff829d5",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
             }
         },
         {
@@ -215,6 +279,14 @@
             }
         },
         {
+            "Key": "ce1d910c-339a-4597-a3fe-e6a24dae51bd",
+            "Value": {
+                "id": "b12c94ac-1b3f-4ccc-9337-1d8b23a26410",
+                "resourcePath": "objects\\obj_RippleMove\\obj_RippleMove.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dbe3ba6b-ca89-4258-a4f1-2575e9e33fb3",
             "Value": {
                 "id": "b6b4922c-4d53-472b-a307-85617a620a7e",
@@ -231,11 +303,27 @@
             }
         },
         {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "48f22efe-ec96-4a94-9c76-89785507b685",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
             "Key": "e6e19242-043e-4392-86be-9db1badb1e58",
             "Value": {
                 "id": "318f2672-3c98-423c-83a9-e356de50708d",
                 "resourcePath": "views\\e6e19242-043e-4392-86be-9db1badb1e58.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ea7b16a4-5389-48ac-a9e2-6b7a982262c0",
+            "Value": {
+                "id": "c46cc5f9-565d-4b48-adcf-0f1adb27970f",
+                "resourcePath": "sprites\\spr_fly\\spr_fly.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
