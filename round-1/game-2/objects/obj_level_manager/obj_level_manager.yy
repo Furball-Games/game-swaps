@@ -2,7 +2,7 @@
     "id": "3e909a2c-bc7a-455e-a410-5fcba2f2b547",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_flySpawner",
+    "name": "obj_level_manager",
     "eventList": [
         {
             "id": "77b14bd3-78d3-4fec-a627-1e0b5c14e700",
@@ -32,6 +32,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "3e909a2c-bc7a-455e-a410-5fcba2f2b547"
+        },
+        {
+            "id": "fdecf090-a581-483e-b92f-f1762e2d0eaf",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
             "m_owner": "3e909a2c-bc7a-455e-a410-5fcba2f2b547"
         }
     ],

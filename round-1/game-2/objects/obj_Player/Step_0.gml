@@ -44,14 +44,16 @@ if (isUpPressed) {
 	rippleShot.phy_linear_velocity_x -= sin(pi / 180 * phy_rotation) * shotSpeed;
 }
 
-if (wasSpaceBarPressed) {
-	var originOffset = 20;
-	var originY = y - cos(pi / 180 * phy_rotation) * originOffset;
-	var originX = x + sin(pi / 180 * phy_rotation) * originOffset;
+if(!instance_exists(obj_RippleShot)){
+	if (wasSpaceBarPressed) {
+		var originOffset = 20;
+		var originY = y - cos(pi / 180 * phy_rotation) * originOffset;
+		var originX = x + sin(pi / 180 * phy_rotation) * originOffset;
 
-	var rippleShot = instance_create_layer(originX, originY, "Instances", obj_RippleShot);
-	rippleShot.depth = -1;
-	rippleShot.phy_rotation = phy_rotation;
-	rippleShot.phy_linear_velocity_y -= cos(pi / 180 * phy_rotation) * shotSpeed;
-	rippleShot.phy_linear_velocity_x += sin(pi / 180 * phy_rotation) * shotSpeed;
+		var rippleShot = instance_create_layer(originX, originY, "Instances", obj_RippleShot);
+		rippleShot.depth = -1;
+		rippleShot.phy_rotation = phy_rotation;
+		rippleShot.phy_linear_velocity_y -= cos(pi / 180 * phy_rotation) * shotSpeed;
+		rippleShot.phy_linear_velocity_x += sin(pi / 180 * phy_rotation) * shotSpeed;
+	}
 }

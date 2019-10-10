@@ -1,0 +1,1 @@
+if(global.HP <= 0) room_restart();

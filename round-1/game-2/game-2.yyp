@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1da5424f-53b7-44cd-b6d7-6bfbbdf836d4",
+            "Value": {
+                "id": "239e490a-60a6-4e36-b4bf-262306451a47",
+                "resourcePath": "objects\\obj_liver\\obj_liver.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1f889730-7595-4f53-a414-8887bc05c681",
             "Value": {
                 "id": "cda44e2d-2642-41d4-8264-efa7c07ef0a4",
@@ -106,7 +114,7 @@
             "Key": "3e909a2c-bc7a-455e-a410-5fcba2f2b547",
             "Value": {
                 "id": "813931d7-acfd-4daf-b3f7-6b47c50b4fdf",
-                "resourcePath": "objects\\obj_flySpawner\\obj_flySpawner.yy",
+                "resourcePath": "objects\\obj_level_manager\\obj_level_manager.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -148,6 +156,22 @@
                 "id": "93b12b17-8b08-4063-b843-33d9292effd9",
                 "resourcePath": "objects\\obj_flySpawning\\obj_flySpawning.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6b587fea-4b8a-4a4d-8982-00c94a4fa946",
+            "Value": {
+                "id": "e3a63253-7f3c-49e8-903a-90fe04e0f3de",
+                "resourcePath": "sprites\\spr_liver\\spr_liver.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "718bd225-311d-4786-8b38-ff3f000d7502",
+            "Value": {
+                "id": "6a5965fb-4c36-431c-b5d1-6199c85e1833",
+                "resourcePath": "sprites\\spr_chop_station\\spr_chop_station.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -283,6 +307,22 @@
             "Value": {
                 "id": "b12c94ac-1b3f-4ccc-9337-1d8b23a26410",
                 "resourcePath": "objects\\obj_RippleMove\\obj_RippleMove.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cfbc8ef5-3e47-426f-b555-6f336fff5569",
+            "Value": {
+                "id": "a1a80d63-d954-4427-ad71-3d5b397de986",
+                "resourcePath": "objects\\obj_HP\\obj_HP.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "da6d3fab-707c-4dc0-b0fa-256d50ab2b81",
+            "Value": {
+                "id": "6e3ceb94-1ecb-4e0f-aaf9-c7f7bc133412",
+                "resourcePath": "objects\\obj_chop_station\\obj_chop_station.yy",
                 "resourceType": "GMObject"
             }
         },
