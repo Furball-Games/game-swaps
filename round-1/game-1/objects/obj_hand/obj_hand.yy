@@ -80,7 +80,22 @@
         }
     ],
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "5a2a3c41-308b-44ed-9ce7-007e775dc455",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "liverPainJitter",
+            "varType": 0
+        }
+    ],
     "solid": true,
     "spriteId": "5d4c65c0-a90d-4231-9112-246ef0109985",
     "visible": true

@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "1a76ba17-e771-4b44-bfa4-3253519ccc44",
+            "Value": {
+                "id": "d50ba002-d289-478a-9867-4f37e9b67c12",
+                "resourcePath": "objects\\obj_Score\\obj_Score.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "27725af6-adac-44eb-89e0-b39faa6b4385",
             "Value": {
                 "id": "2edd511d-3ce4-4e6f-9044-4a2eb44d6106",
@@ -244,6 +252,14 @@
                 "id": "dee317fc-2118-4840-bed6-bd4600d2b37c",
                 "resourcePath": "views\\98c75b37-740f-467e-91d1-0d59853a403e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9eb16d1a-58d9-430c-8a50-181ecd6bcdbe",
+            "Value": {
+                "id": "881273dd-e0ce-442d-9fcd-b16ddb2291ed",
+                "resourcePath": "objects\\obj_LiverPainIndicator\\obj_LiverPainIndicator.yy",
+                "resourceType": "GMObject"
             }
         },
         {
