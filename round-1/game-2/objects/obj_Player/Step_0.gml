@@ -11,22 +11,25 @@ if(isLeftPressed || isRightPressed){
 }else{
 	phy_fixed_rotation = false;
 }
+if(spinoff == true){
+	phy_angular_velocity = 600;
+	if(alarm[0] == -1) alarm = 30;
+}
+
 if (isLeftPressed) {
 	phy_rotation = phy_rotation - 3;
 
 	if (phy_rotation < 0) {
 		phy_rotation = 360 + phy_rotation;
 	}
-	
-//	show_debug_message("Current rotation after left: " + string(phy_rotation));
+
 } else if (isRightPressed) {
 	phy_rotation = phy_rotation + 3;
 	
 	if (phy_rotation > 360) {
 		phy_rotation = phy_rotation % 360;
 	}
-	
-//	show_debug_message("Current rotation after right: " + string(phy_rotation));
+
 }
 
 if (isUpPressed) {
