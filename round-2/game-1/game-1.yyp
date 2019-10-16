@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "43df1cf6-97c7-4cbb-8f46-812178f68911",
+            "Value": {
+                "id": "c1d080b1-6035-4d17-9741-acaaf5835a15",
+                "resourcePath": "objects\\obj_levelmanager\\obj_levelmanager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6193b74c-2a4c-4cdf-9e95-c95f0d680a6f",
             "Value": {
                 "id": "a4d4489d-51a7-43b0-bd9c-576ef25f07d6",

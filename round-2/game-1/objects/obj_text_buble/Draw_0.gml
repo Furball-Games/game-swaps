@@ -6,5 +6,7 @@ draw_roundrect_ext(x-halfw-border,y-h-(border*2),x+halfw+border,y,15,15,false);
 draw_sprite(spr_marker,0,x,y);
 draw_set_alpha(1);
 
+draw_set_halign(fa_center);
+draw_set_valign(fa_top);
 
-draw_text(x+fa_center-halfw,y+fa_top-h-border,text_current);
+draw_text(x,y-h-border,text_current);
