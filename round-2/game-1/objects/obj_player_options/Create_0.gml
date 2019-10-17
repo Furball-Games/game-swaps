@@ -8,4 +8,5 @@ OP1 = "";
 OP2 = "";
 OP3 = "";
 OP4 = "";
-answer = "0";
+answer = "none";
+creator = "none"

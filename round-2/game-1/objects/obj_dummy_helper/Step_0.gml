@@ -3,7 +3,6 @@ if(place_meeting(x,y,obj_player)){
 		instance_create_layer(x,y,layer,obj_text_buble);
 			with(obj_text_buble){
 				text = other.stringOtext
-				//delta_time
 		}
 	}
 }
