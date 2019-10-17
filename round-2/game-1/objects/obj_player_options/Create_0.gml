@@ -1,0 +1,11 @@
+up = keyboard_check(vk_up)
+//down = keyboard_check(vk_down);
+//left = keyboard_check(vk_left);
+//right = keyboard_check(vk_right);
+viewx = view_wport[0];
+viewy = view_hport[0];
+OP1 = "";
+OP2 = "";
+OP3 = "";
+OP4 = "";
+answer = "0";
