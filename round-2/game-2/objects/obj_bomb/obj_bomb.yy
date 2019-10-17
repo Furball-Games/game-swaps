@@ -1,10 +1,19 @@
 {
-    "id": "d5edc006-c67f-4de7-bfd1-1dc89bd5e69a",
+    "id": "c42a59f9-7d7b-44db-9508-f4c59c79fe39",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_block",
+    "name": "obj_bomb",
     "eventList": [
-        
+        {
+            "id": "7b5f7cd0-0f83-4089-a6a4-c889c5da139e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "34162fcc-2b56-405c-8974-f27e855ce048",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "c42a59f9-7d7b-44db-9508-f4c59c79fe39"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -19,40 +28,26 @@
     "physicsObject": true,
     "physicsRestitution": 0.1,
     "physicsSensor": false,
-    "physicsShape": 1,
+    "physicsShape": 0,
     "physicsShapePoints": [
         {
-            "id": "929ead85-84d1-4a8d-9976-a5bf47f79d01",
+            "id": "9117ce11-130a-4b33-ae59-679055191271",
             "modelName": "GMPoint",
             "mvc": "1.0",
-            "x": 0,
-            "y": 0
+            "x": 33,
+            "y": 39
         },
         {
-            "id": "b167f1cb-89ba-4d30-ad31-fdb44f516bd1",
+            "id": "5e07776b-76d5-42e6-a3f0-07f82a4b9ec0",
             "modelName": "GMPoint",
             "mvc": "1.0",
-            "x": 64,
-            "y": 0
-        },
-        {
-            "id": "d3ee9060-c36f-4dd1-94de-f0bbfdbef42f",
-            "modelName": "GMPoint",
-            "mvc": "1.0",
-            "x": 64,
-            "y": 64
-        },
-        {
-            "id": "d3cade5c-8445-4968-82f0-e72ec61fbdc9",
-            "modelName": "GMPoint",
-            "mvc": "1.0",
-            "x": 0,
-            "y": 64
+            "x": 25,
+            "y": 39
         }
     ],
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "57a2d68f-1c35-4674-a838-61090021e50c",
+    "spriteId": "74c3311f-8732-40b0-ae20-9432bcf4863b",
     "visible": true
 }
