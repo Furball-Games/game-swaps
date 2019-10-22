@@ -6,10 +6,10 @@ right = keyboard_check(vk_right);
 x = camera_get_view_x(view_camera[0]);
 y = camera_get_view_y(view_camera[0])+viewy/5*4;
 
-if(up) answer = "up";
-if(down) answer = "down";
-if(left) answer = "left";
-if(right) answer = "right";
+if(up) answer = creator.Option1;
+if(down) answer = creator.Option2;
+if(left) answer = creator.Option3;
+if(right) answer = creator.Option4;
 
 if(up || down || left || right){
 	creator.DoAction = true;
