@@ -5,6 +5,16 @@
     "name": "obj_dummy_conversation",
     "eventList": [
         {
+            "id": "f27c3711-ce0b-445f-b064-bad5def054c4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "9a6f2f8e-ed72-44c7-b377-cee6d4e2a469"
+        },
+        {
             "id": "52bcac4f-2ba2-4e1e-a556-183b22297718",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -22,16 +32,6 @@
             "collisionObjectId": "75361935-a36b-42b3-8438-964697609aa7",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "9a6f2f8e-ed72-44c7-b377-cee6d4e2a469"
-        },
-        {
-            "id": "f27c3711-ce0b-445f-b064-bad5def054c4",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
             "m_owner": "9a6f2f8e-ed72-44c7-b377-cee6d4e2a469"
         }
     ],
@@ -219,6 +219,20 @@
             "resourceFilter": 1023,
             "value": "",
             "varName": "reply4",
+            "varType": 2
+        },
+        {
+            "id": "af9258c7-9418-4af5-9edb-f9f6f8ff4aad",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "",
+            "varName": "correctAnswer",
             "varType": 2
         }
     ],
