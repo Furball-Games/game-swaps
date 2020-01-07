@@ -1,9 +1,11 @@
 {
     "gms2ProjectDir": "../cereal-game-gms2",
     "sprites": [
+        "spr_player"
     ],
     "tilesets": [
     ],
     "rooms": [
+        "world1"
     ]
 }

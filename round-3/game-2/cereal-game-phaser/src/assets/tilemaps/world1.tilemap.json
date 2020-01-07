@@ -1,0 +1,25 @@
+{
+    "tileheight": 32,
+    "tilewidth": 32,
+    "orientation": "orthogonal",
+    "layers": [
+        {
+            "name": "Instances",
+            "type": "objectgroup",
+            "opacity": 1,
+            "visible": true,
+            "x": 0,
+            "y": 0,
+            "objects": [
+                {
+                    "name": "inst_14DEDB4F",
+                    "x": 128,
+                    "y": 128,
+                    "rotation": 0,
+                    "point": true
+                }
+            ]
+        }
+    ],
+    "tilesets": []
+}
