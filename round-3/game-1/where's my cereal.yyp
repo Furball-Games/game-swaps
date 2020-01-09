@@ -247,11 +247,27 @@
             }
         },
         {
+            "Key": "e00a108d-06e1-480e-8010-b8d78e682faf",
+            "Value": {
+                "id": "e6dff844-7f95-4214-ac8a-bc7ceb07716b",
+                "resourcePath": "sprites\\spr_cereal\\spr_cereal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
             "Value": {
                 "id": "3c8dac61-6112-4a88-8dd2-8d19df6c4674",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "ed128b5e-04e6-4b0a-b4c5-ee4d1eeaa282",
+            "Value": {
+                "id": "63347399-bbab-42f1-ba32-841ed598e697",
+                "resourcePath": "objects\\obj_cereal\\obj_cereal.yy",
+                "resourceType": "GMObject"
             }
         },
         {
